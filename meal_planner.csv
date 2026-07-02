@@ -1,0 +1,21 @@
+Age,Gender,Diet,Restriction,Calories,Protein,Fat,Carbs,Cuisine,Cooking_Time,Meal_Type,Health_Goal,Previous_Likes,Recipe_Rating,Saved_or_Cooked
+22,Female,Vegan,None,350,18,10,45,Indian,20,Lunch,Weight Loss,35,4.5,Yes
+28,Male,Keto,Gluten,600,40,35,15,Italian,30,Dinner,Muscle Gain,28,4.7,Yes
+35,Female,Vegetarian,None,420,15,12,55,Chinese,25,Dinner,Maintain,20,4.2,Yes
+40,Male,Non-Vegetarian,Nuts,750,50,40,35,Mexican,45,Dinner,Muscle Gain,18,3.8,No
+30,Female,Vegan,Soy,300,16,8,40,Indian,15,Breakfast,Weight Loss,42,4.8,Yes
+26,Male,Vegetarian,None,500,22,18,60,Italian,35,Lunch,Maintain,14,3.9,No
+31,Female,Keto,Dairy,650,45,38,20,American,40,Dinner,Muscle Gain,25,4.6,Yes
+24,Male,Vegan,None,280,15,6,38,Indian,15,Snack,Weight Loss,30,4.4,Yes
+37,Female,Vegetarian,Gluten,470,20,16,58,Chinese,30,Lunch,Maintain,12,3.7,No
+29,Male,Non-Vegetarian,None,700,48,35,40,Indian,50,Dinner,Muscle Gain,22,4.3,Yes
+21,Female,Vegan,None,320,17,9,42,Italian,20,Breakfast,Weight Loss,40,4.9,Yes
+45,Male,Keto,Dairy,680,46,39,18,American,35,Dinner,Muscle Gain,16,3.5,No
+33,Female,Vegetarian,None,430,19,14,53,Indian,28,Lunch,Maintain,26,4.4,Yes
+27,Male,Vegan,Soy,310,18,8,41,Chinese,18,Snack,Weight Loss,34,4.6,Yes
+39,Female,Non-Vegetarian,Nuts,720,49,37,36,Mexican,50,Dinner,Muscle Gain,10,3.4,No
+25,Female,Vegetarian,None,410,20,13,52,Indian,25,Lunch,Maintain,32,4.7,Yes
+32,Male,Keto,None,640,44,36,22,Italian,32,Dinner,Muscle Gain,29,4.5,Yes
+23,Female,Vegan,None,290,15,7,39,Indian,15,Breakfast,Weight Loss,38,4.8,Yes
+41,Male,Non-Vegetarian,Gluten,760,52,41,37,American,55,Dinner,Muscle Gain,11,3.6,No
+36,Female,Vegetarian,Dairy,450,21,15,54,Chinese,30,Lunch,Maintain,24,4.3,Yes
