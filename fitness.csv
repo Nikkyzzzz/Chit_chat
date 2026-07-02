@@ -1,0 +1,21 @@
+User_ID,Age,Gender,Fitness_Level,Goal,Workout_Type,Preferred_Duration,Video_ID,Video_Title,Difficulty,Duration,Watch_Time,Rating,Completed
+U001,22,Female,Beginner,Weight Loss,Cardio,30,V101,Fat Burn Cardio,Beginner,30,28,5,Yes
+U001,22,Female,Beginner,Weight Loss,Yoga,20,V102,Morning Yoga,Beginner,20,18,4,Yes
+U002,30,Male,Intermediate,Muscle Gain,Strength,45,V103,Upper Body Strength,Intermediate,45,42,5,Yes
+U002,30,Male,Intermediate,Muscle Gain,HIIT,25,V104,HIIT Blast,Intermediate,25,20,4,No
+U003,28,Female,Beginner,Flexibility,Yoga,30,V102,Morning Yoga,Beginner,20,20,5,Yes
+U003,28,Female,Beginner,Flexibility,Stretching,15,V105,Full Body Stretch,Beginner,15,15,5,Yes
+U004,35,Male,Advanced,Endurance,Running,40,V106,Marathon Training,Advanced,40,35,4,Yes
+U004,35,Male,Advanced,Endurance,HIIT,30,V104,HIIT Blast,Intermediate,25,23,4,Yes
+U005,26,Female,Intermediate,Weight Loss,Cardio,30,V101,Fat Burn Cardio,Beginner,30,29,5,Yes
+U005,26,Female,Intermediate,Weight Loss,Dance,25,V107,Zumba Dance,Beginner,25,25,5,Yes
+U006,40,Male,Beginner,Weight Loss,Walking,20,V108,Indoor Walking,Beginner,20,18,4,Yes
+U006,40,Male,Beginner,Weight Loss,Yoga,20,V102,Morning Yoga,Beginner,20,15,3,No
+U007,29,Female,Advanced,Muscle Gain,Strength,50,V109,Heavy Strength Training,Advanced,50,48,5,Yes
+U007,29,Female,Advanced,Muscle Gain,HIIT,25,V104,HIIT Blast,Intermediate,25,24,5,Yes
+U008,33,Male,Intermediate,Flexibility,Yoga,30,V102,Morning Yoga,Beginner,20,20,5,Yes
+U008,33,Male,Intermediate,Flexibility,Pilates,30,V110,Pilates Core,Intermediate,30,28,4,Yes
+U009,24,Female,Beginner,Weight Loss,Cardio,30,V101,Fat Burn Cardio,Beginner,30,30,5,Yes
+U009,24,Female,Beginner,Weight Loss,Dance,25,V107,Zumba Dance,Beginner,25,22,4,Yes
+U010,38,Male,Intermediate,Muscle Gain,Strength,45,V103,Upper Body Strength,Intermediate,45,40,5,Yes
+U010,38,Male,Intermediate,Muscle Gain,Pilates,30,V110,Pilates Core,Intermediate,30,25,4,Yes
